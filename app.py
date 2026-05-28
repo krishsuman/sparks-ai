@@ -333,7 +333,9 @@ with gr.Blocks() as demo:
 # =========================================
 
 demo.launch(
-    share=True,
+    server_name="0.0.0.0",
+    server_port=7860,
+    share=False,
 
     theme=gr.themes.Soft(
         primary_hue="orange",
