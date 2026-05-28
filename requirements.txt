@@ -1,0 +1,6 @@
+gradio
+requests
+speechrecognition
+pydub
+ffmpeg-python
+numpy
