@@ -76,4 +76,6 @@ https://sparks-ai.onrender.com/
 
 ## 📸 Project Images
 
-![Sparks AI UI](images/sparks-ai.png)
+<p align="center">
+  <img src="images/sparks-ai.png" width="100%">
+</p>
