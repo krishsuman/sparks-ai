@@ -1,36 +1,73 @@
-🧠 Sparks AI
+# Sparks AI  
+[AI Assistant Project](https://sparks-ai.onrender.com/) | AI-assisted Development  
 
-An early-stage AI assistant focused on robotics, IoT, electronics, automation, and general-purpose problem solving.
+---
 
-🚀 Overview
+## 🚀 Overview  
+Sparks AI is an early-stage intelligent assistant system designed for interactive problem-solving and exploration across domains such as robotics, IoT, electronics, automation, and general technology.
 
-Sparks AI is a web-based conversational assistant powered by a large language model API. It provides real-time responses through a lightweight chat interface.
+It is a working prototype of a **LLM-powered conversational system** with a web-based interface, focused on real-time interaction and practical usability.
 
-The project is currently in active development and serves as a foundation for building a more advanced AI assistant system.
+The project is currently in a **prototype phase**, built to validate core architecture, response handling, and user experience for future scalable AI assistant development.
 
-⚙️ Features
-💬 Real-time AI chat interface
-⚡ Streaming response support
-🧠 Basic conversation memory
-🎯 General + technical Q&A support
-🎨 Clean dark-themed UI
-🔌 LLM API integration (OpenRouter-based)
-🛠️ Tech Stack
-Python
-Gradio (Frontend UI)
-OpenRouter / LLM API
-Requests (API handling)
-HTML + CSS (custom styling)
-🎯 Focus Areas
-Robotics & embedded systems basics
-IoT and automation concepts
-Electronics problem-solving
-AI assistant experimentation
-General-purpose assistance
-📌 Status
-Early-stage prototype
-Actively evolving system
-Focused on iterative improvements
-🚀 Live Demo
+> Note:  
+This project was developed using AI-assisted development workflows for learning, rapid prototyping, and system experimentation. Core design decisions, integration, and implementation were handled and customized by me.
 
-👉 https://sparks-ai.onrender.com/
+---
+
+## 🧠 System Architecture  
+- Frontend: Gradio-based chat interface  
+- Backend: Python request-handling layer  
+- AI Engine: OpenRouter LLM API integration  
+- Streaming response pipeline (token-based output handling)  
+- Lightweight conversation memory system  
+
+---
+
+## ⚙️ Core Capabilities  
+- Real-time AI conversational interface  
+- Streaming response generation  
+- Multi-turn conversation support  
+- Technical + general question handling  
+- Lightweight web-deployable design  
+- Responsive UI for desktop usage  
+
+---
+
+## 🎯 Focus Areas  
+- Robotics and embedded systems  
+- IoT systems and applications  
+- Electronics fundamentals  
+- Automation and system design  
+- General AI assistance  
+
+---
+
+## 📌 Development Status  
+- Working prototype completed  
+- Core AI pipeline implemented  
+- UI/UX under continuous improvement  
+- Architecture designed for future expansion  
+
+---
+
+## 🔧 Future Improvements  
+- Long-term memory system  
+- Voice interaction layer  
+- Modular AI agent system  
+- UI/UX redesign (production-grade)  
+- Tool integration (code, files, automation)  
+
+---
+
+## 🚀 Live Demo  
+https://sparks-ai.onrender.com/
+
+---
+
+## 💡 Key Learning Outcomes  
+- LLM API integration and usage  
+- Streaming response handling  
+- Web deployment experience  
+- AI system design fundamentals  
+- Iterative development workflow  
