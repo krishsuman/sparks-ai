@@ -1,6 +1,13 @@
 # Sparks AI  
 [AI Assistant Project](https://sparks-ai.onrender.com/) | AI-assisted Development  
 
+## 📸 Sparks AI Banner
+
+<p align="center">
+  <img src="images/sparks-ai banner.png" width="100%">
+</p>
+
+
 ---
 
 ## 🚀 Overview  
@@ -72,10 +79,3 @@ https://sparks-ai.onrender.com/
 - AI system design fundamentals  
 - Iterative development workflow  
 
----
-
-## 📸 Sparks AI Banner
-
-<p align="center">
-  <img src="images/sparks-ai banner.png" width="100%">
-</p>
