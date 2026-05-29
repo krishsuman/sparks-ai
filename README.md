@@ -1,12 +1,10 @@
-# Sparks AI  
-[AI Assistant Project](https://sparks-ai.onrender.com/) | AI-assisted Development  
-
-## 📸 Sparks AI Banner
+## ⚡Sparks AI 
 
 <p align="center">
   <img src="images/sparks-ai banner.png" width="100%">
 </p>
 
+[AI Assistant Project](https://sparks-ai.onrender.com/) | AI-assisted Development  
 
 ---
 
