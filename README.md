@@ -71,3 +71,9 @@ https://sparks-ai.onrender.com/
 - Web deployment experience  
 - AI system design fundamentals  
 - Iterative development workflow  
+
+---
+
+## 📸 Project Images
+
+![Sparks AI UI](images/sparks-ai.png)
